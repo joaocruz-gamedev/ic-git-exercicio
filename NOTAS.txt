@@ -1,0 +1,3 @@
+Nesta aula aprendi: -Não percebo nada de git
+                    -Tenho pânico do facto de não perceber nada de git
+                    -O GitHub é útil 
